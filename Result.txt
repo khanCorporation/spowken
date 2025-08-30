@@ -8477,6 +8477,8 @@
     {"process_name": "C:\\Windows\\System32\\conhost.exe", "pid": 8508, "module_path": "C:\\Windows\\System32\\clbcatq.dll", "signature_status": "Catalog"}
   ],
   "injected_dlls": [
+    {"time": "08/30/2025 15:44:13", "action": "Select file in open/save", "file": "vk_swiftshader.dll", "path": "E:\\New ------------------\\vk_swiftshader\\x64\\Release\\vk_swiftshader.dll", "type": "dll", "registry_key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\ComDlg32\\OpenSavePidlMRU\\*"},
+    {"time": "08/30/2025 15:44:13", "action": "Select file in open/save", "file": "vk_swiftshader.dll", "path": "E:\\New ------------------\\vk_swiftshader\\x64\\Release\\vk_swiftshader.dll", "type": "dll", "registry_key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\ComDlg32\\OpenSavePidlMRU\\dll"}
   ],
   "mz_detect": [
     {"exe_name": "<cannot open>", "pid": 0, "status": "OK"},
@@ -8656,3 +8658,4 @@
     {"process_name": "MSBuild.exe", "pid": 1028, "module_path": "C:\\Users\\Administrator\\source\\repos\\ConsoleApplication1\\x64\\Release\\MSBuild.exe", "detected_string": "cheat"}
   ]
 }
+
