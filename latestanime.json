@@ -1,0 +1,116 @@
+{
+  "latestAnime": [
+    {
+      "id": "jujutsu-kaisen",
+      "title": "Jujutsu Kaisen",
+      "year": 2023,
+      "status": "Ongoing",
+      "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b51f863b05f30576cf9d85fa9b911bb5.png",
+      "cover": "https://example.com/jujutsu-kaisen-banner.jpg",
+      "description": "Yuji Itadori joins a secret organization of Jujutsu Sorcerers to eliminate a powerful curse.",
+      "genres": ["Action", "Supernatural", "Dark Fantasy"],
+      "tags": ["Curses", "Sorcery", "High School"],
+      "languages": ["Japanese", "English"],
+      "episode": {
+        "number": 1,
+        "title": "Hidden Inventory",
+        "releaseDate": "2023-07-06",
+        "thumbnail": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f0b91bbbd75c16315c767bf3a9c8a3fc.jpg",
+        "streams": {
+          "sub": {
+            "420p": "https://example.com/episodes/jujutsu-s2e1-sub-420p.mp4",
+            "1080p": "https://example.com/episodes/jujutsu-s2e1-sub-1080p.mp4"
+          },
+          "dub": {
+            "420p": "https://example.com/episodes/jujutsu-s2e1-dub-420p.mp4",
+            "1080p": "https://example.com/episodes/jujutsu-s2e1-dub-1080p.mp4"
+          }
+        }
+      }
+    },
+    {
+      "id": "bleach-thousand-year-blood-war",
+      "title": "Bleach: Thousand-Year Blood War",
+      "year": 2022,
+      "status": "Completed",
+      "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bleach-thumbnail.jpg",
+      "cover": "https://example.com/bleach-banner.jpg",
+      "description": "Ichigo Kurosaki returns to protect the Soul Society from a new deadly threat.",
+      "genres": ["Action", "Fantasy", "Supernatural"],
+      "tags": ["Soul Reapers", "Battle", "War"],
+      "languages": ["Japanese", "English"],
+      "episode": {
+        "number": 1,
+        "title": "The Blood Warfare",
+        "releaseDate": "2022-10-10",
+        "thumbnail": "https://example.com/thumbs/bleach-e1.jpg",
+        "streams": {
+          "sub": {
+            "420p": "https://example.com/episodes/bleach-e1-sub-420p.mp4",
+            "1080p": "https://example.com/episodes/bleach-e1-sub-1080p.mp4"
+          },
+          "dub": {
+            "420p": "https://example.com/episodes/bleach-e1-dub-420p.mp4",
+            "1080p": "https://example.com/episodes/bleach-e1-dub-1080p.mp4"
+          }
+        }
+      }
+    },
+    {
+      "id": "chainsaw-man",
+      "title": "Chainsaw Man",
+      "year": 2022,
+      "status": "Completed",
+      "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/chainsawman.jpg",
+      "cover": "https://example.com/chainsawman-banner.jpg",
+      "description": "Denji, a devil hunter, is reborn as Chainsaw Man after a fatal betrayal.",
+      "genres": ["Action", "Horror", "Dark Fantasy"],
+      "tags": ["Devils", "Gore", "Chainsaw"],
+      "languages": ["Japanese", "English"],
+      "episode": {
+        "number": 1,
+        "title": "Dog & Chainsaw",
+        "releaseDate": "2022-10-12",
+        "thumbnail": "https://example.com/thumbs/chainsaw-e1.jpg",
+        "streams": {
+          "sub": {
+            "420p": "https://example.com/episodes/chainsaw-e1-sub-420p.mp4",
+            "1080p": "https://example.com/episodes/chainsaw-e1-sub-1080p.mp4"
+          },
+          "dub": {
+            "420p": "https://example.com/episodes/chainsaw-e1-dub-420p.mp4",
+            "1080p": "https://example.com/episodes/chainsaw-e1-dub-1080p.mp4"
+          }
+        }
+      }
+    },
+    {
+      "id": "one-piece",
+      "title": "One Piece",
+      "year": 1999,
+      "status": "Ongoing",
+      "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/onepiece.jpg",
+      "cover": "https://example.com/onepiece-banner.jpg",
+      "description": "Monkey D. Luffy sails with his crew in search of the ultimate treasure, the One Piece.",
+      "genres": ["Adventure", "Fantasy", "Comedy"],
+      "tags": ["Pirates", "Treasure", "Devil Fruits"],
+      "languages": ["Japanese", "English"],
+      "episode": {
+        "number": 1100,
+        "title": "Luffy's New Gear",
+        "releaseDate": "2025-09-15",
+        "thumbnail": "https://example.com/thumbs/onepiece-e1100.jpg",
+        "streams": {
+          "sub": {
+            "420p": "https://example.com/episodes/onepiece-e1100-sub-420p.mp4",
+            "1080p": "https://example.com/episodes/onepiece-e1100-sub-1080p.mp4"
+          },
+          "dub": {
+            "420p": "https://example.com/episodes/onepiece-e1100-dub-420p.mp4",
+            "1080p": "https://example.com/episodes/onepiece-e1100-dub-1080p.mp4"
+          }
+        }
+      }
+    }
+  ]
+}
