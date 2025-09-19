@@ -2,15 +2,13 @@
   "animes": [
     {
       "id": "jujutsu-kaisen",
-      "slug": "jujutsu-kaisen-2nd-season",
-      "title": "Jujutsu Kaisen 2nd Season",
+      "slug": "jujutsu-kaisen",
+      "title": "Jujutsu Kaisen",
       "description": "Yuji Itadori, a kind-hearted teenager, joins a secret organization of Jujutsu Sorcerers to eliminate a powerful curse.",
       "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b51f863b05f30576cf9d85fa9b911bb5.png",
       "cover": "https://example.com/jujutsu-kaisen-banner.jpg",
       "type": "TV",
-      "season": 2,
-      "part": 1,
-      "year": 2023,
+      "year": 2020,
       "status": "Ongoing",
       "ageRating": "R",
       "rating": 9.1,
@@ -46,28 +44,55 @@
       ],
       "commentsEnabled": true,
       "downloadEnabled": true,
-      "episodes": [
+      "seasons": [
         {
-          "number": 1,
-          "title": "Hidden Inventory",
-          "thumbnail": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f0b91bbbd75c16315c767bf3a9c8a3fc.jpg",
-          "duration": "24:00",
-          "releaseDate": "2023-07-06",
-          "subUrl": "https://example.com/episodes/jujutsu-s2e1-sub.mp4",
-          "dubUrl": "https://example.com/episodes/jujutsu-s2e1-dub.mp4",
-          "subDownload": "https://example.com/episodes/jujutsu-s2e1-sub-download.mp4",
-          "dubDownload": "https://example.com/episodes/jujutsu-s2e1-dub-download.mp4"
+          "seasonNumber": 1,
+          "title": "Jujutsu Kaisen - Season 1",
+          "year": 2020,
+          "cover": "https://example.com/jujutsu-s1-banner.jpg",
+          "episodes": [
+            {
+              "number": 1,
+              "title": "Ryomen Sukuna",
+              "thumbnail": "https://example.com/thumbs/s1e1.jpg",
+              "duration": "24:10",
+              "releaseDate": "2020-10-03",
+              "subUrl": "https://example.com/episodes/jujutsu-s1e1-sub.mp4",
+              "dubUrl": "https://example.com/episodes/jujutsu-s1e1-dub.mp4",
+              "subDownload": "https://example.com/episodes/jujutsu-s1e1-sub-download.mp4",
+              "dubDownload": "https://example.com/episodes/jujutsu-s1e1-dub-download.mp4"
+            }
+          ]
         },
         {
-          "number": 2,
-          "title": "Hidden Inventory 2",
-          "thumbnail": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bcd84731a3eda4f4a306250769675065.jpg",
-          "duration": "24:30",
-          "releaseDate": "2023-07-13",
-          "subUrl": "https://cdn.discordapp.com/attachments/1412397732546740284/1418406215670566942/KHAN_CORPORATION_khans_corporation.mp4?ex=68ce013a&is=68ccafba&hm=036744a83bfbf022bca65e5114525df040d45994aad091c7708f5bf3046de50c&",
-          "dubUrl": "https://example.com/episodes/jujutsu-s2e2-dub.mp4",
-          "subDownload": "https://example.com/episodes/jujutsu-s2e2-sub-download.mp4",
-          "dubDownload": "https://example.com/episodes/jujutsu-s2e2-dub-download.mp4"
+          "seasonNumber": 2,
+          "title": "Jujutsu Kaisen - Season 2",
+          "year": 2023,
+          "cover": "https://example.com/jujutsu-s2-banner.jpg",
+          "episodes": [
+            {
+              "number": 1,
+              "title": "Hidden Inventory",
+              "thumbnail": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f0b91bbbd75c16315c767bf3a9c8a3fc.jpg",
+              "duration": "24:00",
+              "releaseDate": "2023-07-06",
+              "subUrl": "https://example.com/episodes/jujutsu-s2e1-sub.mp4",
+              "dubUrl": "https://example.com/episodes/jujutsu-s2e1-dub.mp4",
+              "subDownload": "https://example.com/episodes/jujutsu-s2e1-sub-download.mp4",
+              "dubDownload": "https://example.com/episodes/jujutsu-s2e1-dub-download.mp4"
+            },
+            {
+              "number": 2,
+              "title": "Hidden Inventory 2",
+              "thumbnail": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bcd84731a3eda4f4a306250769675065.jpg",
+              "duration": "24:30",
+              "releaseDate": "2023-07-13",
+              "subUrl": "https://cdn.discordapp.com/attachments/1412397732546740284/1418406215670566942/KHAN_CORPORATION_khans_corporation.mp4?ex=68ce013a&is=68ccafba&hm=036744a83bfbf022bca65e5114525df040d45994aad091c7708f5bf3046de50c&",
+              "dubUrl": "https://example.com/episodes/jujutsu-s2e2-dub.mp4",
+              "subDownload": "https://example.com/episodes/jujutsu-s2e2-sub-download.mp4",
+              "dubDownload": "https://example.com/episodes/jujutsu-s2e2-dub-download.mp4"
+            }
+          ]
         }
       ]
     }
