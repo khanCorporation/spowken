@@ -4,14 +4,14 @@
       "id": "naruto",
       "title": "Naruto",
       "description": "A story of Naruto Uzumaki, a young ninja who dreams of becoming Hokage.",
-      "poster": "https://example.com/naruto.jpg",
+      "poster": "https://pacdn.aoneroom.com/image/2024/12/12/fd402ffb3560f3648223143e7a746f1c.jpeg?x-oss-process=image/resize%2Cw_250",
       "type": "TV",
       "genres": ["Action", "Adventure", "Shounen"],
       "episodes": [
         {
           "number": 1,
           "title": "Enter: Naruto Uzumaki!",
-          "videoUrl": "https://example.com/naruto-ep1.mp4",
+          "videoUrl": "",
           "thumbnail": "https://example.com/naruto-ep1-thumb.jpg"
         },
         {
