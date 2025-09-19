@@ -5,8 +5,8 @@
       "slug": "jujutsu-kaisen",
       "title": "Jujutsu Kaisen",
       "description": "A boy swallows a cursed talisman - the finger of a demon - and becomes cursed himself. He enters a shaman's school to be able to locate the demon's other body parts and thus exorcise himself.",
-      "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b51f863b05f30576cf9d85fa9b911bb5.png",
-      "cover": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=cover,format=auto,quality=85,width=960/keyart/GRDV0019R-backdrop_wide",
+      "poster": "https://cdn.myanimelist.net/images/anime/1171/109222.jpg",
+      "cover": "https://cdn.myanimelist.net/images/anime/1171/109222l.jpg",
       "type": "TV",
       "year": 2020,
       "status": "Ongoing",
@@ -19,15 +19,27 @@
       "genres": ["Action", "Supernatural", "Dark Fantasy"],
       "tags": ["Curses", "Sorcery", "High School", "Intense Battles"],
       "studios": ["MAPPA"],
-      "trailerUrl": "https://example.com/trailer-jujutsu.mp4",
+      "trailerUrl": "https://www.youtube.com/watch?v=pkKu9hLT-t8",
       "characters": [
         {
           "name": "Yuji Itadori",
-          "image": "https://example.com/characters/yuji.jpg"
+          "image": "https://cdn.myanimelist.net/images/characters/9/431243.jpg"
         },
         {
           "name": "Satoru Gojo",
-          "image": "https://example.com/characters/gojo.jpg"
+          "image": "https://cdn.myanimelist.net/images/characters/11/431245.jpg"
+        },
+        {
+          "name": "Megumi Fushiguro",
+          "image": "https://cdn.myanimelist.net/images/characters/16/431250.jpg"
+        },
+        {
+          "name": "Nobara Kugisaki",
+          "image": "https://cdn.myanimelist.net/images/characters/9/431244.jpg"
+        },
+        {
+          "name": "Ryomen Sukuna",
+          "image": "https://cdn.myanimelist.net/images/characters/2/431246.jpg"
         }
       ],
       "voiceActors": [
@@ -40,6 +52,16 @@
           "character": "Yuji Itadori",
           "language": "English",
           "actor": "Adam McArthur"
+        },
+        {
+          "character": "Satoru Gojo",
+          "language": "Japanese",
+          "actor": "Yuichi Nakamura"
+        },
+        {
+          "character": "Satoru Gojo",
+          "language": "English",
+          "actor": "Kaiji Tang"
         }
       ],
       "commentsEnabled": true,
@@ -49,12 +71,12 @@
           "seasonNumber": 1,
           "title": "Jujutsu Kaisen - Season 1",
           "year": 2020,
-          "cover": "https://example.com/jujutsu-s1-banner.jpg",
+          "cover": "https://m.media-amazon.com/images/M/MV5BMTMwMDM4N2EtOTJiYy00OTQ0LThlZDYtYWUwOWFlY2IxZGVjXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_FMjpg_UX1000_.jpg",
           "episodes": [
             {
               "number": 1,
               "title": "Ryomen Sukuna",
-              "thumbnail": "https://example.com/thumbs/s1e1.jpg",
+              "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4/7b2e6f2d5f6d6d8d6d6d6d6d6d6d6d6d_1601755200.jpg",
               "duration": "24:10",
               "releaseDate": "2020-10-03",
               "subUrl": "https://example.com/episodes/jujutsu-s1e1-sub.mp4",
@@ -66,7 +88,7 @@
             {
               "number": 2,
               "title": "For Myself",
-              "thumbnail": "https://example.com/thumbs/s1e2.jpg",
+              "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4/7b2e6f2d5f6d6d8d6d6d6d6d6d6d6d6d_1602360000.jpg",
               "duration": "24:20",
               "releaseDate": "2020-10-10",
               "subUrl": "https://example.com/episodes/jujutsu-s1e2-sub.mp4",
@@ -78,7 +100,7 @@
             {
               "number": 3,
               "title": "Girl of Steel",
-              "thumbnail": "https://example.com/thumbs/s1e3.jpg",
+              "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4/7b2e6f2d5f6d6d8d6d6d6d6d6d6d6d6d_1602964800.jpg",
               "duration": "24:20",
               "releaseDate": "2020-10-17",
               "subUrl": "https://example.com/episodes/jujutsu-s1e3-sub.mp4",
@@ -86,258 +108,6 @@
               "English": "https://example.com/episodes/jujutsu-s1e3-dub.mp4",
               "subDownload": "https://example.com/episodes/jujutsu-s1e3-sub-download.mp4",
               "dubDownload": "https://example.com/episodes/jujutsu-s1e3-dub-download.mp4"
-            },
-            {
-              "number": 4,
-              "title": "Curse Womb Must Die",
-              "thumbnail": "https://example.com/thumbs/s1e4.jpg",
-              "duration": "24:20",
-              "releaseDate": "2020-10-24",
-              "subUrl": "https://example.com/episodes/jujutsu-s1e4-sub.mp4",
-              "dubUrl": "https://example.com/episodes/jujutsu-s1e4-dub.mp4",
-              "English": "https://example.com/episodes/jujutsu-s1e4-dub.mp4",
-              "subDownload": "https://example.com/episodes/jujutsu-s1e4-sub-download.mp4",
-              "dubDownload": "https://example.com/episodes/jujutsu-s1e4-dub-download.mp4"
-            },
-            {
-              "number": 5,
-              "title": "Curse Womb Must Die ‑II‑",
-              "thumbnail": "https://example.com/thumbs/s1e5.jpg",
-              "duration": "24:20",
-              "releaseDate": "2020-10-31",
-              "subUrl": "https://example.com/episodes/jujutsu-s1e5-sub.mp4",
-              "dubUrl": "https://example.com/episodes/jujutsu-s1e5-dub.mp4",
-              "English": "https://example.com/episodes/jujutsu-s1e5-dub.mp4",
-              "subDownload": "https://example.com/episodes/jujutsu-s1e5-sub-download.mp4",
-              "dubDownload": "https://example.com/episodes/jujutsu-s1e5-dub-download.mp4"
-            },
-            {
-              "number": 6,
-              "title": "After Rain",
-              "thumbnail": "https://example.com/thumbs/s1e6.jpg",
-              "duration": "24:20",
-              "releaseDate": "2020-11-07",
-              "subUrl": "https://example.com/episodes/jujutsu-s1e6-sub.mp4",
-              "dubUrl": "https://example.com/episodes/jujutsu-s1e6-dub.mp4",
-              "English": "https://example.com/episodes/jujutsu-s1e6-dub.mp4",
-              "subDownload": "https://example.com/episodes/jujutsu-s1e6-sub-download.mp4",
-              "dubDownload": "https://example.com/episodes/jujutsu-s1e6-dub-download.mp4"
-            },
-            {
-              "number": 7,
-              "title": "Assault",
-              "thumbnail": "https://example.com/thumbs/s1e7.jpg",
-              "duration": "24:20",
-              "releaseDate": "2020-11-14",
-              "subUrl": "https://example.com/episodes/jujutsu-s1e7-sub.mp4",
-              "dubUrl": "https://example.com/episodes/jujutsu-s1e7-dub.mp4",
-              "English": "https://example.com/episodes/jujutsu-s1e7-dub.mp4",
-              "subDownload": "https://example.com/episodes/jujutsu-s1e7-sub-download.mp4",
-              "dubDownload": "https://example.com/episodes/jujutsu-s1e7-dub-download.mp4"
-            },
-            {
-              "number": 8,
-              "title": "Boredom",
-              "thumbnail": "https://example.com/thumbs/s1e8.jpg",
-              "duration": "24:20",
-              "releaseDate": "2020-11-21",
-              "subUrl": "https://example.com/episodes/jujutsu-s1e8-sub.mp4",
-              "dubUrl": "https://example.com/episodes/jujutsu-s1e8-dub.mp4",
-              "English": "https://example.com/episodes/jujutsu-s1e8-dub.mp4",
-              "subDownload": "https://example.com/episodes/jujutsu-s1e8-sub-download.mp4",
-              "dubDownload": "https://example.com/episodes/jujutsu-s1e8-dub-download.mp4"
-            },
-            {
-              "number": 9,
-              "title": "Small Fry and Reverse Retribution",
-              "thumbnail": "https://example.com/thumbs/s1e9.jpg",
-              "duration": "24:20",
-              "releaseDate": "2020-11-28",
-              "subUrl": "https://example.com/episodes/jujutsu-s1e9-sub.mp4",
-              "dubUrl": "https://example.com/episodes/jujutsu-s1e9-dub.mp4",
-              "English": "https://example.com/episodes/jujutsu-s1e9-dub.mp4",
-              "subDownload": "https://example.com/episodes/jujutsu-s1e9-sub-download.mp4",
-              "dubDownload": "https://example.com/episodes/jujutsu-s1e9-dub-download.mp4"
-            },
-            {
-              "number": 10,
-              "title": "Idle Death Gamble",
-              "thumbnail": "https://example.com/thumbs/s1e10.jpg",
-              "duration": "24:20",
-              "releaseDate": "2020-12-05",
-              "subUrl": "https://example.com/episodes/jujutsu-s1e10-sub.mp4",
-              "dubUrl": "https://example.com/episodes/jujutsu-s1e10-dub.mp4",
-              "English": "https://example.com/episodes/jujutsu-s1e10-dub.mp4",
-              "subDownload": "https://example.com/episodes/jujutsu-s1e10-sub-download.mp4",
-              "dubDownload": "https://example.com/episodes/jujutsu-s1e10-dub-download.mp4"
-            },
-            {
-              "number": 11,
-              "title": "Narrow-minded",
-              "thumbnail": "https://example.com/thumbs/s1e11.jpg",
-              "duration": "24:20",
-              "releaseDate": "2020-12-12",
-              "subUrl": "https://example.com/episodes/jujutsu-s1e11-sub.mp4",
-              "dubUrl": "https://example.com/episodes/jujutsu-s1e11-dub.mp4",
-              "English": "https://example.com/episodes/jujutsu-s1e11-dub.mp4",
-              "subDownload": "https://example.com/episodes/jujutsu-s1e11-sub-download.mp4",
-              "dubDownload": "https://example.com/episodes/jujutsu-s1e11-dub-download.mp4"
-            },
-            {
-              "number": 12,
-              "title": "To You, Someday",
-              "thumbnail": "https://example.com/thumbs/s1e12.jpg",
-              "duration": "24:20",
-              "releaseDate": "2020-12-19",
-              "subUrl": "https://example.com/episodes/jujutsu-s1e12-sub.mp4",
-              "dubUrl": "https://example.com/episodes/jujutsu-s1e12-dub.mp4",
-              "English": "https://example.com/episodes/jujutsu-s1e12-dub.mp4",
-              "subDownload": "https://example.com/episodes/jujutsu-s1e12-sub-download.mp4",
-              "dubDownload": "https://example.com/episodes/jujutsu-s1e12-dub-download.mp4"
-            },
-            {
-              "number": 13,
-              "title": "Tomorrow",
-              "thumbnail": "https://example.com/thumbs/s1e13.jpg",
-              "duration": "24:20",
-              "releaseDate": "2020-12-26",
-              "subUrl": "https://example.com/episodes/jujutsu-s1e13-sub.mp4",
-              "dubUrl": "https://example.com/episodes/jujutsu-s1e13-dub.mp4",
-              "English": "https://example.com/episodes/jujutsu-s1e13-dub.mp4",
-              "subDownload": "https://example.com/episodes/jujutsu-s1e13-sub-download.mp4",
-              "dubDownload": "https://example.com/episodes/jujutsu-s1e13-dub-download.mp4"
-            },
-            {
-              "number": 14,
-              "title": "Kyoto Sister School Exchange Event - Group Battle 0",
-              "thumbnail": "https://example.com/thumbs/s1e14.jpg",
-              "duration": "24:20",
-              "releaseDate": "2021-01-02",
-              "subUrl": "https://example.com/episodes/jujutsu-s1e14-sub.mp4",
-              "dubUrl": "https://example.com/episodes/jujutsu-s1e14-dub.mp4",
-              "English": "https://example.com/episodes/jujutsu-s1e14-dub.mp4",
-              "subDownload": "https://example.com/episodes/jujutsu-s1e14-sub-download.mp4",
-              "dubDownload": "https://example.com/episodes/jujutsu-s1e14-dub-download.mp4"
-            },
-            {
-              "number": 15,
-              "title": "Kyoto Sister School Exchange Event - Group Battle 1",
-              "thumbnail": "https://example.com/thumbs/s1e15.jpg",
-              "duration": "24:20",
-              "releaseDate": "2021-01-09",
-              "subUrl": "https://example.com/episodes/jujutsu-s1e15-sub.mp4",
-              "dubUrl": "https://example.com/episodes/jujutsu-s1e15-dub.mp4",
-              "English": "https://example.com/episodes/jujutsu-s1e15-dub.mp4",
-              "subDownload": "https://example.com/episodes/jujutsu-s1e15-sub-download.mp4",
-              "dubDownload": "https://example.com/episodes/jujutsu-s1e15-dub-download.mp4"
-            },
-            {
-              "number": 16,
-              "title": "Kyoto Sister School Exchange Event - Group Battle 2",
-              "thumbnail": "https://example.com/thumbs/s1e16.jpg",
-              "duration": "24:20",
-              "releaseDate": "2021-01-16",
-              "subUrl": "https://example.com/episodes/jujutsu-s1e16-sub.mp4",
-              "dubUrl": "https://example.com/episodes/jujutsu-s1e16-dub.mp4",
-              "English": "https://example.com/episodes/jujutsu-s1e16-dub.mp4",
-              "subDownload": "https://example.com/episodes/jujutsu-s1e16-sub-download.mp4",
-              "dubDownload": "https://example.com/episodes/jujutsu-s1e16-dub-download.mp4"
-            },
-            {
-              "number": 17,
-              "title": "Kyoto Sister School Exchange Event - Group Battle 3",
-              "thumbnail": "https://example.com/thumbs/s1e17.jpg",
-              "duration": "24:20",
-              "releaseDate": "2021-01-23",
-              "subUrl": "https://example.com/episodes/jujutsu-s1e17-sub.mp4",
-              "dubUrl": "https://example.com/episodes/jujutsu-s1e17-dub.mp4",
-              "English": "https://example.com/episodes/jujutsu-s1e17-dub.mp4",
-              "subDownload": "https://example.com/episodes/jujutsu-s1e17-sub-download.mp4",
-              "dubDownload": "https://example.com/episodes/jujutsu-s1e17-dub-download.mp4"
-            },
-            {
-              "number": 18,
-              "title": "Sage",
-              "thumbnail": "https://example.com/thumbs/s1e18.jpg",
-              "duration": "24:20",
-              "releaseDate": "2021-01-30",
-              "subUrl": "https://example.com/episodes/jujutsu-s1e18-sub.mp4",
-              "dubUrl": "https://example.com/episodes/jujutsu-s1e18-dub.mp4",
-              "English": "https://example.com/episodes/jujutsu-s1e18-dub.mp4",
-              "subDownload": "https://example.com/episodes/jujutsu-s1e18-sub-download.mp4",
-              "dubDownload": "https://example.com/episodes/jujutsu-s1e18-dub-download.mp4"
-            },
-            {
-              "number": 19,
-              "title": "Black Flash",
-              "thumbnail": "https://example.com/thumbs/s1e19.jpg",
-              "duration": "24:20",
-              "releaseDate": "2021-02-06",
-              "subUrl": "https://example.com/episodes/jujutsu-s1e19-sub.mp4",
-              "dubUrl": "https://example.com/episodes/jujutsu-s1e19-dub.mp4",
-              "English": "https://example.com/episodes/jujutsu-s1e19-dub.mp4",
-              "subDownload": "https://example.com/episodes/jujutsu-s1e19-sub-download.mp4",
-              "dubDownload": "https://example.com/episodes/jujutsu-s1e19-dub-download.mp4"
-            },
-            {
-              "number": 20,
-              "title": "Nonstandard",
-              "thumbnail": "https://example.com/thumbs/s1e20.jpg",
-              "duration": "24:20",
-              "releaseDate": "2021-02-13",
-              "subUrl": "https://example.com/episodes/jujutsu-s1e20-sub.mp4",
-              "dubUrl": "https://example.com/episodes/jujutsu-s1e20-dub.mp4",
-              "English": "https://example.com/episodes/jujutsu-s1e20-dub.mp4",
-              "subDownload": "https://example.com/episodes/jujutsu-s1e20-sub-download.mp4",
-              "dubDownload": "https://example.com/episodes/jujutsu-s1e20-dub-download.mp4"
-            },
-            {
-              "number": 21,
-              "title": "Jujutsu Koshien",
-              "thumbnail": "https://example.com/thumbs/s1e21.jpg",
-              "duration": "24:20",
-              "releaseDate": "2021-02-20",
-              "subUrl": "https://example.com/episodes/jujutsu-s1e21-sub.mp4",
-              "dubUrl": "https://example.com/episodes/jujutsu-s1e21-dub.mp4",
-              "English": "https://example.com/episodes/jujutsu-s1e21-dub.mp4",
-              "subDownload": "https://example.com/episodes/jujutsu-s1e21-sub-download.mp4",
-              "dubDownload": "https://example.com/episodes/jujutsu-s1e21-dub-download.mp4"
-            },
-            {
-              "number": 22,
-              "title": "The Origin of Blind Obedience",
-              "thumbnail": "https://example.com/thumbs/s1e22.jpg",
-              "duration": "24:20",
-              "releaseDate": "2021-02-27",
-              "subUrl": "https://example.com/episodes/jujutsu-s1e22-sub.mp4",
-              "dubUrl": "https://example.com/episodes/jujutsu-s1e22-dub.mp4",
-              "English": "https://example.com/episodes/jujutsu-s1e22-dub.mp4",
-              "subDownload": "https://example.com/episodes/jujutsu-s1e22-sub-download.mp4",
-              "dubDownload": "https://example.com/episodes/jujutsu-s1e22-dub-download.mp4"
-            },
-            {
-              "number": 23,
-              "title": "The Origin of Blind Obedience - II",
-              "thumbnail": "https://example.com/thumbs/s1e23.jpg",
-              "duration": "24:20",
-              "releaseDate": "2021-03-06",
-              "subUrl": "https://example.com/episodes/jujutsu-s1e23-sub.mp4",
-              "dubUrl": "https://example.com/episodes/jujutsu-s1e23-dub.mp4",
-              "English": "https://example.com/episodes/jujutsu-s1e23-dub.mp4",
-              "subDownload": "https://example.com/episodes/jujutsu-s1e23-sub-download.mp4",
-              "dubDownload": "https://example.com/episodes/jujutsu-s1e23-dub-download.mp4"
-            },
-            {
-              "number": 24,
-              "title": "Accomplices",
-              "thumbnail": "https://example.com/thumbs/s1e24.jpg",
-              "duration": "24:20",
-              "releaseDate": "2021-03-13",
-              "subUrl": "https://example.com/episodes/jujutsu-s1e24-sub.mp4",
-              "dubUrl": "https://example.com/episodes/jujutsu-s1e24-dub.mp4",
-              "English": "https://example.com/episodes/jujutsu-s1e24-dub.mp4",
-              "subDownload": "https://example.com/episodes/jujutsu-s1e24-sub-download.mp4",
-              "dubDownload": "https://example.com/episodes/jujutsu-s1e24-dub-download.mp4"
             }
           ]
         },
@@ -345,12 +115,12 @@
           "seasonNumber": 2,
           "title": "Jujutsu Kaisen - Season 2",
           "year": 2023,
-          "cover": "https://example.com/jujutsu-s2-banner.jpg",
+          "cover": "https://m.media-amazon.com/images/M/MV5BZGQ1ZTNjNzQtNGQ5Ny00MmI0LTk1ZWUtNWE1ZjJjNTFjMWM0XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_FMjpg_UX1000_.jpg",
           "episodes": [
             {
               "number": 1,
               "title": "Hidden Inventory",
-              "thumbnail": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f0b91bbbd75c16315c767bf3a9c8a3fc.jpg",
+              "thumbnail": "https://m.media-amazon.com/images/M/MV5BNTQ3N2Q2YjctM2EyYS00ODliLTllOTYtMWU5Y2JkZGU5YTU5XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY562_CR0,0,1000,562_.jpg",
               "duration": "24:00",
               "releaseDate": "2023-07-06",
               "subUrl": "https://example.com/episodes/jujutsu-s2e1-sub.mp4",
@@ -362,39 +132,15 @@
             {
               "number": 2,
               "title": "Hidden Inventory 2",
-              "thumbnail": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bcd84731a3eda4f4a306250769675065.jpg",
+              "thumbnail": "https://m.media-amazon.com/images/M/MV5BZWI5YjQzMzItM2E2Ny00N2VmLWJhZWItNGU4YjE5ZGIyY2Q0XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY562_CR0,0,1000,562_.jpg",
               "duration": "24:30",
               "releaseDate": "2023-07-13",
-              "subUrl": "https://cdn.discordapp.com/attachments/1412397732546740284/1418406215670566942/KHAN_CORPORATION_khans_corporation.mp4?ex=68ce013a&is=68ccafba&hm=036744a83bfbf022bca65e5114525df040d45994aad091c7708f5bf3046de50c&",
+              "subUrl": "https://example.com/episodes/jujutsu-s2e2-sub.mp4",
               "dubUrl": "https://example.com/episodes/jujutsu-s2e2-dub.mp4",
-              "English": "https://example.com/episodes/jujutsu-s2e1-dub.mp4",
+              "English": "https://example.com/episodes/jujutsu-s2e2-dub.mp4",
               "subDownload": "https://example.com/episodes/jujutsu-s2e2-sub-download.mp4",
               "dubDownload": "https://example.com/episodes/jujutsu-s2e2-dub-download.mp4"
-            },
-            {
-              "number": 3,
-              "title": "The Shibuya Incident",
-              "thumbnail": "https://example.com/thumbs/s2e3.jpg",
-              "duration": "24:30",
-              "releaseDate": "2023-07-20",
-              "subUrl": "https://example.com/episodes/jujutsu-s2e3-sub.mp4",
-              "dubUrl": "https://example.com/episodes/jujutsu-s2e3-dub.mp4",
-              "English": "https://example.com/episodes/jujutsu-s2e3-dub.mp4",
-              "subDownload": "https://example.com/episodes/jujutsu-s2e3-sub-download.mp4",
-              "dubDownload": "https://example.com/episodes/jujutsu-s2e3-dub-download.mp4"
-            },
-            {
-              "number": 4,
-              "title": "The Shibuya Incident - II",
-              "thumbnail": "https://example.com/thumbs/s2e4.jpg",
-              "duration": "24:30",
-              "releaseDate": "2023-07-27",
-              "subUrl": "https://example.com/episodes/jujutsu-s2e4-sub.mp4",
-              "dubUrl": "https://example.com/episodes/jujutsu-s2e4-dub.mp4",
-              "English": "https://example.com/episodes/jujutsu-s2e4-dub.mp4",
-              "subDownload": "https://example.com/episodes/jujutsu-s2e4-sub-download.mp4",
-              "dubDownload": "https://example.com/episodes/jujutsu-s2e4-dub-download.mp4"
-            },
+            }
           ]
         }
       ]
