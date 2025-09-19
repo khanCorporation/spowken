@@ -1,0 +1,48 @@
+{
+  "animes": [
+    {
+      "id": "naruto",
+      "title": "Naruto",
+      "description": "A story of Naruto Uzumaki, a young ninja who dreams of becoming Hokage.",
+      "poster": "https://example.com/naruto.jpg",
+      "type": "TV",
+      "genres": ["Action", "Adventure", "Shounen"],
+      "episodes": [
+        {
+          "number": 1,
+          "title": "Enter: Naruto Uzumaki!",
+          "videoUrl": "https://example.com/naruto-ep1.mp4",
+          "thumbnail": "https://example.com/naruto-ep1-thumb.jpg"
+        },
+        {
+          "number": 2,
+          "title": "My Name is Konohamaru!",
+          "videoUrl": "https://example.com/naruto-ep2.mp4",
+          "thumbnail": "https://example.com/naruto-ep2-thumb.jpg"
+        }
+      ]
+    },
+    {
+      "id": "jujutsu-kaisen",
+      "title": "Jujutsu Kaisen 2nd Season",
+      "description": "Yuji Itadori, a kind-hearted teenager, joins a secret organization of Jujutsu Sorcerers to eliminate a powerful curse.",
+      "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b51f863b05f30576cf9d85fa9b911bb5.png",
+      "type": "TV",
+      "genres": ["Action", "Supernatural", "Dark Fantasy"],
+      "episodes": [
+        {
+          "number": 1,
+          "title": "Hidden Inventory",
+          "videoUrl": "https://cdn.discordapp.com/attachments/1412397732546740284/1418406215670566942/KHAN_CORPORATION_khans_corporation.mp4?ex=68ce013a&is=68ccafba&hm=036744a83bfbf022bca65e5114525df040d45994aad091c7708f5bf3046de50c&",
+          "thumbnail": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f0b91bbbd75c16315c767bf3a9c8a3fc.jpg"
+        },
+        {
+          "number": 2,
+          "title": "Hidden Inventory2",
+          "videoUrl": "https://cdn.discordapp.com/attachments/1412397732546740284/1418406215670566942/KHAN_CORPORATION_khans_corporation.mp4?ex=68ce013a&is=68ccafba&hm=036744a83bfbf022bca65e5114525df040d45994aad091c7708f5bf3046de50c&",
+          "thumbnail": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bcd84731a3eda4f4a306250769675065.jpg"
+        }
+      ]
+    }
+  ]
+}
