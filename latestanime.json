@@ -7,14 +7,14 @@
       "status": "Ongoing",
       "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b51f863b05f30576cf9d85fa9b911bb5.png",
       "cover": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=cover,format=auto,quality=85,width=960/keyart/GRDV0019R-backdrop_wide",
-      "description": "High schooler Yuji Itadori eats a cursed finger belonging to the powerful Curse Sukuna and becomes his host. He joins the Tokyo Metropolitan Curse Technical School to fight curses. :contentReference[oaicite:0]{index=0}",
-      "genres": ["Action", "Dark Fantasy", "Supernatural", "Adventure"],  // added Adventure to match source
-      "tags": ["Curses", "Sorcery", "High School", "Exorcism", "Demons"],  // expanded tags
-      "languages": ["Japanese", "English", "Hindi"],  // confirmed Hindi dub and airing :contentReference[oaicite:1]{index=1}
+      "description": "High schooler Yuji Itadori eats a cursed finger belonging to the powerful Curse Sukuna and becomes his host. He joins the Tokyo Metropolitan Curse Technical School to fight curses.",
+      "genres": ["Action", "Dark Fantasy", "Supernatural", "Adventure"],
+      "tags": ["Curses", "Sorcery", "High School", "Exorcism", "Demons"],
+      "languages": ["Japanese", "English", "Hindi"],
       "episode": {
         "number": 1,
         "title": "Hidden Inventory",
-        "releaseDate": "2023-07-06",  // this corresponds to a specific season or perhaps filler; original series started 2020 :contentReference[oaicite:2]{index=2}
+        "releaseDate": "2023-07-06",
         "thumbnail": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f0b91bbbd75c16315c767bf3a9c8a3fc.jpg",
         "streams": {
           "sub": {
@@ -35,10 +35,10 @@
       "status": "Completed",
       "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bleach-thumbnail.jpg",
       "cover": "https://img3.hulu.com/user/v3/artwork/02a3c8c0-4f1d-4610-bbb4-5b8e9468d7b1?base_image_bucket_name=image_manager&base_image=cceda7ba-50f1-468b-a611-b47e1a5f56bd&region=US&format=webp&size=952x536",
-      "description": "When the Quincy led by Yhwach declare war, Ichigo Kurosaki must reawaken his powers as a Soul Reaper to protect both the human world and the Soul Society. :contentReference[oaicite:3]{index=3}",
-      "genres": ["Action", "Adventure", "Supernatural", "Fantasy"],  // include Adventure and Fantasy :contentReference[oaicite:4]{index=4}
-      "tags": ["Soul Reapers", "War", "Quincy", "Battle", "Supernatural Beings"],  // expanded
-      "languages": ["Japanese", "English", "Hindi"],  // Hindi dub confirmed on JioCinema :contentReference[oaicite:5]{index=5}
+      "description": "When the Quincy led by Yhwach declare war, Ichigo Kurosaki must reawaken his powers as a Soul Reaper to protect both the human world and the Soul Society.",
+      "genres": ["Action", "Adventure", "Supernatural", "Fantasy"],
+      "tags": ["Soul Reapers", "War", "Quincy", "Battle", "Supernatural Beings"],
+      "languages": ["Japanese", "English", "Hindi"],
       "episode": {
         "number": 1,
         "title": "The Blood Warfare",
@@ -63,10 +63,10 @@
       "status": "Completed",
       "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/chainsawman.jpg",
       "cover": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=cover,format=auto,quality=85,width=1920/keyart/GVDHX8QNW-backdrop_wide",
-      "description": "Denji, a poor young man burdened by debt, merges with his pet devil Pochita to become Chainsaw Man, fighting powerful devils while wrestling with his own humanity. (betrayal, violence, dark themes) ",  // added details
-      "genres": ["Action", "Horror", "Dark Fantasy", "Supernatural"],  // matches known genres
-      "tags": ["Devils", "Gore", "Violence", "Sacrifice", "Monsters"],  // expanded tags
-      "languages": ["Japanese", "English", "Hindi"],  // Hindi dub confirmed in many announcements :contentReference[oaicite:6]{index=6}
+      "description": "Denji, a poor young man burdened by debt, merges with his pet devil Pochita to become Chainsaw Man, fighting powerful devils while wrestling with his own humanity.",
+      "genres": ["Action", "Horror", "Dark Fantasy", "Supernatural"],
+      "tags": ["Devils", "Gore", "Violence", "Sacrifice", "Monsters"],
+      "languages": ["Japanese", "English", "Hindi"],
       "episode": {
         "number": 1,
         "title": "Dog & Chainsaw",
@@ -91,10 +91,10 @@
       "status": "Ongoing",
       "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/onepiece.jpg",
       "cover": "https://example.com/onepiece-banner.jpg",
-      "description": "Monkey D. Luffy sets sail with his crew of Straw Hat Pirates in search of the ultimate treasure, the One Piece. Along the way they face powerful enemies, make allies, and follow their dreams of freedom. :contentReference[oaicite:7]{index=7}",
-      "genres": ["Adventure", "Fantasy", "Action", "Comedy"],  // includes action/comedy/fantasy/adventure
-      "tags": ["Pirates", "Treasure", "Dreams", "Freedom", "Friendship"],  // added Dreams, Freedom, Friendship
-      "languages": ["Japanese", "English", "Hindi"],  // Hindi dub is available; many services offer Hindi dub for popular anime like One Piece
+      "description": "Monkey D. Luffy sets sail with his crew of Straw Hat Pirates in search of the ultimate treasure, the One Piece. Along the way they face powerful enemies, make allies, and follow their dreams of freedom.",
+      "genres": ["Adventure", "Fantasy", "Action", "Comedy"],
+      "tags": ["Pirates", "Treasure", "Dreams", "Freedom", "Friendship"],
+      "languages": ["Japanese", "English", "Hindi"],
       "episode": {
         "number": 1100,
         "title": "Luffy's New Gear",
